@@ -38,3 +38,4 @@ Sou mentoreado por um Dev.Android Senior (PicPay) e por dois Dev.IOS.Plenos (Cor
 <a href="mailto:victorvagner@ucl.br" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="VictorPerez" height="40" width="120" /></a>
 </p>
   
+![Snake animation](https://github.com/VictorPerez3/VictorPerez3/blob/output/github-contribution-grid-snake.svg)
