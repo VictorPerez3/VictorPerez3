@@ -18,7 +18,7 @@ Sou mentoreado por um Dev.Android Senior (PicPay) e por dois Dev.IOS.Plenos (Cor
 
 <h3 align="left"> 🛠️ Linguagens e Tecnologias:</h3>
 <p>
-💻KOTLIN/JAVA: Orientação a objetos, consumo de API’s, criação de diferentes tipos de layout, transporte de dados entre activities, Clean Code, Archtecture(MVVM), Design Patterns, Injeção de dependências Hilt/Koin, testes unitários, versionamento GIT, entre outros.
+💻KOTLIN/JAVA: Orientação a objetos; LifeCycles (Ciclos de vida); API’s Rest com Retrofit; JetPack (Navigation, Compose); Layouts ViewGroups; transporte de dados entre activities (Intents); Clean Code; Archtecture(MVVM); Design Patterns; LiveData; SQLite; Coroutines; Injeção de dependências Hilt; testes unitários (Mockito, Mockk); versionamento GIT; metodologias ágeis (Scrum e Kanban); entre outros.
 </p>
 <p>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"/> 
@@ -29,6 +29,15 @@ Sou mentoreado por um Dev.Android Senior (PicPay) e por dois Dev.IOS.Plenos (Cor
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 </p>
+
+## 👨🏻‍💻 Diferenciais:
+
+<img align="right" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1082119/retina_1708x683_cover-android-apps-mvvm-with-clean-architecture-ce042b0da370a289e0ee95fd997f25c3.png" height="290px" />
+
+Como diferencial, apresento o certificado de desempenho na graduação mostrando facilidade e empenho no aprendizado técnico, assim como, certificado de recomendação da Vale como Engenheiro, mostrando dominio em softskills de Liderança e Comunicação.
+</p>
+Cá entre nós, SoftSkills são habilidades comportamentais que se destacam a frente do conhecimento técnico. Afinal de contas, é mais facil aprender o técnico do que o comportamental.
+<p>
 
 ## ❤️ Connect with me:
   
