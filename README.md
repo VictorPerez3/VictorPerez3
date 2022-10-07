@@ -4,8 +4,6 @@
   <img src ="https://media-exp1.licdn.com/dms/image/C4D16AQF5uxGT489tJg/profile-displaybackgroundimage-shrink_350_1400/0/1647919598225?e=1667433600&v=beta&t=giF4mrSMJp1O6a1A-ZLREw02Xq7FS9nHMYv9e-8mmxs" width="1400px" />
 </div>
 
-<br/>
-
 ## 👨🏻‍💻 Sobre mim:
 
 <img align="right" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1082119/retina_1708x683_cover-android-apps-mvvm-with-clean-architecture-ce042b0da370a289e0ee95fd997f25c3.png" height="290px" />
@@ -32,12 +30,17 @@ Sou mentoreado por um Dev.Android Senior (PicPay) e por dois Dev.IOS.Plenos (Cor
 
 ## 👨🏻‍💻 Diferenciais:
 
-<img align="right" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1082119/retina_1708x683_cover-android-apps-mvvm-with-clean-architecture-ce042b0da370a289e0ee95fd997f25c3.png" height="290px" />
+<img align="right" src="https://github.com/VictorPerez3/VictorPerez3/blob/main/Carta%20de%20Recomenda%C3%A7%C3%A3o%20-%20Victor%20Perez%20-%20Vale.jpg" height="290px" />
 
 Como diferencial, apresento o certificado de desempenho na graduação mostrando facilidade e empenho no aprendizado técnico, assim como, certificado de recomendação da Vale como Engenheiro, mostrando dominio em softskills de Liderança e Comunicação.
 </p>
-Cá entre nós, SoftSkills são habilidades comportamentais que se destacam a frente do conhecimento técnico. Afinal de contas, é mais facil aprender o técnico do que o comportamental.
-<p>
+<br>
+Certificado de desempenho na graduação: https://www.linkedin.com/feed/update/urn:li:activity:6773258310738038784/
+</p>
+<br>
+Certificado de recomendação da Vale como Engenheiro: https://drive.google.com/file/d/1MgbUa8KkuJcjiYheKB25G3oMnEjY9Z6Z/view
+<br>
+<br>
 
 ## ❤️ Connect with me:
   
