@@ -16,7 +16,7 @@ Sou mentoreado por um Dev.Android Senior (PicPay) e por dois Dev.IOS.Plenos (Cor
 
 <h3 align="left"> 🛠️ Linguagens e Tecnologias:</h3>
 <p>
-💻KOTLIN/JAVA: Orientação a objetos; Clean Code; SOLID; Arquitetura (MVVM); LifeCycles (Ciclos de vida); API’s Rest com Retrofit; JetPack (Navigation, Compose (IU Declarativa)); Layouts ViewGroups; transporte de dados entre activities (Intents); Design Patterns; LiveData; SQL; Coroutines; Injeção de dependências Hilt; testes unitários (Mockito, Mockk); versionamento GIT; metodologias ágeis (Scrum e Kanban); entre outros.
+💻KOTLIN/JAVA: Orientação a objetos; Clean Code; SOLID; Arquitetura (MVVM); LifeCycles (Ciclos de vida); API’s Rest com Retrofit; JetPack (Navigation, Compose (IU Declarativa)); Layouts ViewGroups; transporte de dados entre activities (Intents); Design Patterns; LiveData; SQL; Coroutines; RxJava; Injeção de dependências Hilt; testes unitários (Mockito, Mockk); versionamento GIT; metodologias ágeis (Scrum e Kanban); entre outros.
 </p>
 <p>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"/> 
