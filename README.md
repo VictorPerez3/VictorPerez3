@@ -8,7 +8,7 @@
 
 <img align="right" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1082119/retina_1708x683_cover-android-apps-mvvm-with-clean-architecture-ce042b0da370a289e0ee95fd997f25c3.png" height="290px" />
 
-Apaixonado por tecnologia e Desenvolvimento de Softwares, assim como, graduado em Eng. Química, Pós-graduado em Eng. Ambiental, Eng. e Gerenciamento de Manutenção.
+Apaixonado por tecnologia e Desenvolvimento de Softwares, assim como, graduado em Eng. Química, Pós-graduado em Eng. Ambiental, Eng. e Gerenciamento de Manutenção. Atualmente, graduando em Eng.Software.
 <p>
 Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio da linguagem Android (Java/Kothlin).
 Sou mentoreado por um Dev.Android Senior (PicPay) e por dois Dev.IOS.Plenos (Cora). 
