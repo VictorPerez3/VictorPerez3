@@ -10,22 +10,52 @@
 
 Apaixonado por tecnologia e Desenvolvimento de Softwares, assim como, graduado em Eng. Química, Pós-graduado em Eng. Ambiental, Eng. e Gerenciamento de Manutenção. Atualmente, graduando em Eng.Software.
 <p>
-Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio da linguagem Android (Java/Kothlin).
-Sou mentoreado por um Dev.Android Senior (PicPay) e por dois Dev.IOS.Plenos (Cora). 
+No momento, atuo desenvolvendo em Full Stack Web, na empresa Tegrus. Além de, estudar mobile Android em Java/Kotlin, minha primeira linguagem. 
 </p>
 
 <h3 align="left"> 🛠️ Linguagens e Tecnologias:</h3>
 <p>
-💻KOTLIN/JAVA: Orientação a objetos; Clean Code; SOLID; Arquitetura (MVVM); LifeCycles (Ciclos de vida); API’s Rest com Retrofit; JetPack (Navigation, Compose (IU Declarativa)); Layouts ViewGroups; transporte de dados entre activities (Intents); Design Patterns; LiveData; SQL; Coroutines; RxJava; Injeção de dependências Hilt; testes unitários (Mockito, Mockk); versionamento GIT; metodologias ágeis (Scrum e Kanban); entre outros.
+💻Backend: Arq MVC; Node.js; Typescript; Express; Prisma DB; Zod (Validação); Bcrypt (encriptação); JWT(Token); Prettier (Formatação); Swagger (Doc Api); Docker; Kubernetes. 
+</p>
+<p>
+💻 Frontend: TypeScript, React, Html, CSS. 
+</p>
+<p>
+💻 Android: Arq MVVM; LifeCycles (Ciclos de vida); API’s Rest com Retrofit; Room DataBase; carregamento de imagens Glide; JetPack (Navigation, Compose (IU Declarativa)); Layouts ViewGroups; transporte de dados entre activities (Intents); LiveData; Coroutines; RxJava; Injeção de dependências Hilt; testes automatizados Junit; 
+</p>
+<p>
+💻 Interação com Banco de dados/API: Workato; Postman, DBeaver; Workbench. 
+</p>
+<p>
+💻 Banco de dados/API: PostegreSQL; MySQL; SQLite; MongoDB.  
+</p>
+<p>
+💻 Estruturação: Arquitetura MVC, MVVM, Modular; Orientação a objetos; CleanCode, Versionamento GIT, SOLID, Design Patterns. 
+</p>
+<p>
+🛠️Metodologias Ágeis: Scrum, Kanban.  
+</p>
+<p>
+🛠️Marketing Digital - Pipeline de vendas - Gerenc.Processos (Pipefy, Syonet) - ChatHooks   
 </p>
 <p>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"/> 
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25px"/>  
 <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>
+<img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25px"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
+ <img alt="Type" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
+<img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" height="25px"/>
+<img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25px"/>  
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>  
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>  
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>  
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25px"/>  
+<img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
+<img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>  
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+<img alt="gitLAB" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="25px"/>
 </p>
 
 ## 👨🏻‍💻 Diferenciais:
