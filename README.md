@@ -15,10 +15,10 @@ No momento, atuo desenvolvendo em Full Stack Web, na empresa Tegrus. Além de, e
 
 <h3 align="left"> 🛠️ Linguagens e Tecnologias:</h3>
 <p>
-💻Backend: Arq MVC; Node.js; Typescript; Express; Prisma DB; Zod (Validação); Bcrypt (encriptação); JWT(Token); Prettier (Formatação); Swagger (Doc Api); Docker; Kubernetes. 
+💻Backend: Node.js; Nest.js; Typescript; Express; Prisma DB; Zod (Validação); Bcrypt (encriptação); JWT(Token); Prettier (Formatação); Swagger (Doc Api); Docker; Kubernetes. 
 </p>
 <p>
-💻 Frontend: TypeScript, React, Html, CSS. 
+💻 Frontend: Next.js; TypeScript, React, Html, CSS. 
 </p>
 <p>
 💻 Android: Arq MVVM; LifeCycles (Ciclos de vida); API’s Rest com Retrofit; Room DataBase; carregamento de imagens Glide; JetPack (Navigation, Compose (IU Declarativa)); Layouts ViewGroups; transporte de dados entre activities (Intents); LiveData; Coroutines; RxJava; Injeção de dependências Hilt; testes automatizados Junit; 
@@ -31,6 +31,9 @@ No momento, atuo desenvolvendo em Full Stack Web, na empresa Tegrus. Além de, e
 </p>
 <p>
 💻 Estruturação: Arquitetura MVC, MVVM, Modular; Orientação a objetos; CleanCode, Versionamento GIT, SOLID, Design Patterns. 
+</p>
+<p>
+🛠️Processos: Mapeamento de Sistemas.  
 </p>
 <p>
 🛠️Metodologias Ágeis: Scrum, Kanban.  
