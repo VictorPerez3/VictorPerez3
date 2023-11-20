@@ -10,7 +10,7 @@
 
 Apaixonado por tecnologia e Desenvolvimento de Softwares, assim como, graduado em Eng. Química, Pós-graduado em Eng. Ambiental, Eng. e Gerenciamento de Manutenção. Atualmente, graduando em Eng.Software.
 <p>
-No momento, atuo desenvolvendo em Full Stack Web, na empresa Tegrus. Além de, estudar mobile Android em Java/Kotlin, minha primeira linguagem. 
+No momento, atuo desenvolvendo em Full Stack Web e mobile Flutter, na empresa Tegrus. Além de, estudar mobile Android em Java/Kotlin, minha primeira linguagem. 
 </p>
 
 <h3 align="left"> 🛠️ Linguagens e Tecnologias:</h3>
@@ -23,6 +23,8 @@ No momento, atuo desenvolvendo em Full Stack Web, na empresa Tegrus. Além de, e
 <p>
 💻 Android: Arq MVVM; LifeCycles (Ciclos de vida); API’s Rest com Retrofit; Room DataBase; carregamento de imagens Glide; JetPack (Navigation, Compose (IU Declarativa)); Layouts ViewGroups; transporte de dados entre activities (Intents); LiveData; Coroutines; RxJava; Injeção de dependências Hilt; testes automatizados Junit; 
 </p>
+<p>
+💻 Mobile Flutter: FlutterFlow, LifeCycles (Ciclos de vida); Arq. MVVM; MOBX; Shared Preferences, Toast, Test Mock.
 <p>
 💻 Interação com Banco de dados/API: Workato; Postman, DBeaver; Workbench. 
 </p>
