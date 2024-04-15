@@ -8,12 +8,12 @@
 
 <img align="right" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1082119/retina_1708x683_cover-android-apps-mvvm-with-clean-architecture-ce042b0da370a289e0ee95fd997f25c3.png" height="290px" />
 
-Apaixonado por tecnologia e Desenvolvimento de Softwares, assim como, graduado em Eng. Química, Pós-graduado em Eng. Ambiental, Eng. e Gerenciamento de Manutenção. Atualmente, graduando em Eng.Software. Além de, estudar mobile Android em Java/Kotlin, minha primeira linguagem. 
+👨‍💻No momento, atuo na empresa CodeNApp desenvolvendo aplicações do zero e suportando manutenções em Android e Ios com Flutter na empresa. Abaixo, tecnologias que tenho contato:
 <p>
-No momento, atuo na Tegrus desenvolvendo aplicações do zero e suportando manutenções em Backend (RestAPI`s), Frontend (Cliente e Backoffice), Mobile (App) e DateBase(Scripts SQL) na empresa Tegrus. Abaixo, tecnologias que tenho contato: 
+💻 Flutter: LifeCycles (Ciclos de vida); MOBX; GetX; Bloc; Shared Preferences, Toast, Test Mock, FlutterFlow.
 </p>
 
-<h3 align="left"> 🛠️ Linguagens e Tecnologias:</h3>
+<h3 align="left"> 🛠️ Outras Linguagens e Tecnologias que trabalhei:</h3>
 <p>
 💻Backend: Backend: Java SpringBoot; Docker; Kubernetes; Python Panda; Node.js e Nest.js Typescript; Express; Prisma DB; Zod (Validação); Bcrypt (encriptação); JWT(Token); Prettier (Formatação); Swagger (Doc Api).   
 </p>
@@ -22,9 +22,7 @@ No momento, atuo na Tegrus desenvolvendo aplicações do zero e suportando manut
 </p>
 <p>
 💻 Android Kotlin: MVVM; LifeCycles (Ciclos de vida); API’s Rest com Retrofit; Room DataBase; carregamento de imagens Glide; JetPack (Navigation, Compose (IU Declarativa)); Layouts ViewGroups; transporte de dados entre activities (Intents); LiveData; Coroutines; RxJava; Injeção de dependências Hilt; testes automatizados Junit;
-</p>
-<p>
-💻 Flutter: FlutterFlow, LifeCycles (Ciclos de vida); MOBX; Shared Preferences, Toast, Test Mock. 
+</p> 
 <p>
 💻 Interação com Banco de dados/API: Scripts SQL, Postman, DBeaver; Workbench.
 </p>
@@ -32,16 +30,13 @@ No momento, atuo na Tegrus desenvolvendo aplicações do zero e suportando manut
 💻 Banco de dados/API: PostegreSQL; MySQL; SQLite; MongoDB.
 </p>
 <p>
-💻 Estruturação: Arquitetura MVC, MVVM, Modular; Orientação a objetos; CleanCode, Versionamento GIT, SOLID, Design Patterns. 
+💻 Estruturação: Arquitetura MVC, MVP, MVVM, Modular; Orientação a objetos; CleanCode, Versionamento GIT, GIT WorkFlow. 
 </p>
 <p>
-🛠️Processos: Mapeamento de Sistemas.  
+🛠️Metodologias Ágeis: Scrum, Kanban. 
 </p>
 <p>
-🛠️Metodologias Ágeis: Scrum, Kanban.  
-</p>
-<p>
-🛠️Marketing Digital - Pipeline de vendas - Gerenc.Processos (Pipefy, Syonet) - ChatHooks   
+🛠️Processos: Mapeamento de Sistemas; Pipeline de vendas (Pipefy). 
 </p>
 <p>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"/> 
