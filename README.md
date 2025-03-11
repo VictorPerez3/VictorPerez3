@@ -8,7 +8,7 @@
 
 <img align="right" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1082119/retina_1708x683_cover-android-apps-mvvm-with-clean-architecture-ce042b0da370a289e0ee95fd997f25c3.png" height="290px" />
 
-👨‍💻No momento, atuo na empresa CodeNApp desenvolvendo aplicações do zero e suportando manutenções em Android e Ios com Flutter na empresa. Abaixo, tecnologias que tenho contato:
+👨‍💻No momento, atuo na empresa Empiricus desenvolvendo e suportando manutenções em Android e Ios com Flutter na empresa. Abaixo, tecnologias que tenho contato:
 <p>
 💻 Flutter: LifeCycles (Ciclos de vida); MOBX; GetX; Bloc; Shared Preferences, Toast, Test Mock, FlutterFlow.
 </p>
